@@ -16,7 +16,7 @@ Aplicación sencilla en **Python** para administrar una lista de tareas desde la
 ## Cómo ejecutarla
 
 ```bash
-git clone https://github.com/TU_USUARIO/gestor-tareas.git
+git clone https://github.com/Stealino/gestor-tareas.git
 cd gestor-tareas
 python tareas.py
 ```
