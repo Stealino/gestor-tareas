@@ -47,4 +47,4 @@ gestor-tareas/
 
 ## Autor
 
-Proyecto realizado para el taller de repositorios. Desarrollado con apoyo de IA.
+Proyecto realizado por Jonathan Osorio para el taller de repositorios. Desarrollado con apoyo de IA.
